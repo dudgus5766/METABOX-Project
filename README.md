@@ -58,24 +58,6 @@
 - `[Footer]` 
 - Adobe Photoshop을 사용해 사용자 편의성과 디자인적인 부분을 고려한 포스트 페이지 레이아웃 및 UI 리디자인.
 
-#### 김동준님
-
-- `[Nav]` : 기본 라우팅, 사이트맵, 검색 창 클릭 이벤트
-- `[Main]` : 영화 리스트 pagination / 정렬 (평점/개봉일/보고싶어요)
-- `[Details]` : radar, block, line 그래프를 이용하여 영화 주요 정보 표현
-- `Libraries` : chart.js
-
-
-#### 이송현님
-
-- `[Booking]`
-- 예매 화면의 상단 캘린더 로직
-- 달력 아이콘 클릭 시, 테이블 형태의 캘린더 fold/unfold 로직 구현
-- 메가박스의 빠른 예매 기본 프로세스와 동일한 로직 구현
-- `Libraries` : date-fns, React Date Picker
-
-
-
 ## 📃 Reference
 
 ---
